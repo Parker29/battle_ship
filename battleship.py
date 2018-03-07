@@ -1,7 +1,5 @@
 
-from functions import print_board
-from functions import random_row
-from functions import random_col
+from functions import print_board,random_row,random_col
 board = []
 
 for x in range(0, 5):
